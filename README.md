@@ -1,5 +1,27 @@
 # IITG Hospital & Ambulance Management System
 
+## Project Images
+
+
+1. Website Landing Page![](./ScreenShots/1.png)
+2. HIring Ambulance Form![](./ScreenShots/2_1.png)
+3. Hospital Logins For Users and Doctor![](./ScreenShots/2.png)
+4. Query Form & Admin Logins![](./ScreenShots/3.png)
+5. Ambulance Tracking Info![](./ScreenShots/4.png)
+6. User Login Page![](./ScreenShots/5.png)
+7. User DashBoard![](./ScreenShots/6.png)
+8. User Complete Medical History![](./ScreenShots/7_1.png)
+9. Doctor Dashboard![](./ScreenShots/7.png)
+10. Doctor's Patient History View![](./ScreenShots/8.png)
+11. Doctor Adding Patient's Medical History![](./ScreenShots/9.png)
+12. Hospital Admin DashBoard![](./ScreenShots/10.png)
+13. Hospital Admin Editing Doctor's Profile![](./ScreenShots/11_1.png)
+14. Ambulance Admin Sign In![](./ScreenShots/11.png)
+15. Ambulance Admin DashBoard![](./ScreenShots/12.png)
+16. Ambulance Admin All Requests View and New Requests view![](./ScreenShots/13.png)
+
+
+
 ## Instructions to Run the Project
 
 1. Download the project zip file.
@@ -38,4 +60,3 @@
 ### Patient Credential
 - **Email:** p.punj@iitg.ac.in
 - **Password:** 123456
-
